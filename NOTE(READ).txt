@@ -1,0 +1,5 @@
+npm run dev first,  then php artisan serve
+
+
+
+just a note
