@@ -232,7 +232,6 @@ Karena ini learning project, kontribusi sangat welcome terutama untuk:
 
 **Developer**: RubySy  
 **Email**: rbysysf@gmail.com  
-**Instagram**: [@rbysysf](https://instagram.com/rbysysf)
 
 ---
 
